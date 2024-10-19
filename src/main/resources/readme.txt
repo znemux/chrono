@@ -1,9 +1,9 @@
 
 README
 
-If you are reading this, it means you opened/extracted "mrunpacker.jar" using an archiver like
+If you are reading this, it means you opened/extracted "chrono.jar" using an archiver like
 WinRAR, 7-Zip, Ark, etc. To run this program as any other, change your file association with the
-"Open with" option on mrunpacker.jar, and select Java or OpenJDK. To have this option, you have
+"Open with" option on "chrono.jar", and select Java or OpenJDK. To have this option, you have
 to install Java and add it as a program.
 
 If you're on Windows, you just need to install Java 8+, you can download the installer here:
